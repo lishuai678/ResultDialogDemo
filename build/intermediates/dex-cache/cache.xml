@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\demo\ResultDialog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\demo\ResultDialog\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_df41aafef3395c03c02f1fab733fdae190917668.jar" />
+    </item>
+    <item
+        jar="D:\demo\ResultDialog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\demo\ResultDialog\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_4fc7c7b428e92561c16e5af5375441fbbba9125b.jar" />
+    </item>
+    <item
+        jar="D:\demo\ResultDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\demo\ResultDialog\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_1985f54785e5d75a0bddef611cb4907afa6b2b95.jar" />
+    </item>
+    <item
+        jar="D:\demo\ResultDialog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\demo\ResultDialog\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ae490f6fcd4fefd7b3b3f547ba670886f0cb044b.jar" />
+    </item>
+    <item
+        jar="D:\demo\ResultDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\demo\ResultDialog\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5437cb9452ebfe057ce30875a0ca1f5d84e0ee51.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\demo\ResultDialog\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a09b22d32094d7d0ea394387971704affb6232ae.jar" />
+    </item>
+
+</items>
